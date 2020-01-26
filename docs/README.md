@@ -1,10 +1,12 @@
 # Introduction
 
-## Component-based theming with Twig
+## Advanced Components
 
-_A hands-on training workshop by_ [_Mediacurrent_](https://mediacurrent.com) _and_ [_Chaz Chumley_](https://twitter.com/chazchumley)_._
+#### A hands-on workshop for component-based theming with Twig.
 
-This is a hands-on training workshop which will walk you through the process of building components and integrate those components with Drupal 8. _Component-based theming with Twig is typically broken down in 3 parts_:
+_A training workshop by_ [_Mediacurrent_](https://mediacurrent.com).
+
+This is a hands-on training workshop which will walk you through the process of building components and integrate those components with Drupal 8. _Component based development is typically broken down in 3 parts_:
 
 * Building stand-alone components with Twig using Pattern lab.
 * Building Drupal's back-end.
