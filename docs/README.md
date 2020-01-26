@@ -1,6 +1,6 @@
 # Introduction
 
-## Advanced Components
+## Component-based theming with Twig
 
 #### A hands-on workshop for component-based theming with Twig.
 
