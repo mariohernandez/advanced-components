@@ -1,4 +1,4 @@
-# Welcome Component Based Development
+# Welcome Componenbe-based theming with Twig
 A training workshop by [Mediacurrent](https://mediacurrent.com).
 
 ## Getting Started
