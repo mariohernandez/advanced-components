@@ -1,6 +1,8 @@
 # Introduction
 
-## Component based development
+## Advanced Components
+
+#### A hands-on workshop for component-based theming with Twig.
 
 _A training workshop by_ [_Mediacurrent_](https://mediacurrent.com).
 
@@ -34,13 +36,13 @@ While building components we are given the opportunity to architecture markup in
 
 ### NPM, Node and Gulp
 
-Front-End tooling has evolved and has become a complex combination of plugins, libraries and dependencies which can add overhead to our projects.  
+Front-End tooling has evolved and has become a complex combination of plugins, libraries and dependencies which can add overhead to our projects.
 
-In the process of this training you will be exposed to tools such as Node, Node Package Manager \(NPM\), Gulp, Node Version Manager \(NVM\), and several other libraries and plugins essential for an advanced and modern front-end environment.  No worries though, these tools are already integrated in our custom front-end workflow so you don't have to install these tools 
+In the process of this training you will be exposed to tools such as Node, Node Package Manager \(NPM\), Gulp, Node Version Manager \(NVM\), and several other libraries and plugins essential for an advanced and modern front-end environment. No worries though, these tools are already integrated in our custom front-end workflow so you don't have to install these tools
 
 ## Who is this training for?
 
-This training is intended for front and back-end developers who are building websites in Drupal 8. However, it also benefits those who want to have a better understanding of component based development such as project managers, managers and site builders.  A good understanding of HTML, Twig, CSS/Sass and command line is recommended. After this training, you will have a solid understanding of how to build and theme components in a living style guide and be able to integrate those components with Drupal with a single source of truth for markup, styles, and javascript.
+This training is intended for front and back-end developers who are building websites in Drupal 8. However, it also benefits those who want to have a better understanding of component based development such as project managers, managers and site builders. A good understanding of HTML, Twig, CSS/Sass and command line is recommended. After this training, you will have a solid understanding of how to build and theme components in a living style guide and be able to integrate those components with Drupal with a single source of truth for markup, styles, and javascript.
 
 ## Training requirements
 
